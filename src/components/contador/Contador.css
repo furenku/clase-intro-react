@@ -1,0 +1,18 @@
+:local(.Contador) {
+
+    /* p32 */
+    padding: 32px;
+
+    /* ou */
+    outline: 1px solid black;
+
+    /* fz24 */
+    font-size: 24px;
+
+}
+
+
+:local(.activado) {
+    background-color: #000;
+    color: #fff;
+}
